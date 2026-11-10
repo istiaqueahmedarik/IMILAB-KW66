@@ -1,0 +1,7 @@
+KW66 Glass, 2026.
+
+Protocol behavior was informed by the local GloryFit/Gadgetbridge review and the user's KW66 captures. The reviewed Gadgetbridge files credit Copyright (C) 2025 José Rebelo and are licensed AGPL-3.0-or-later. Reviewed source snapshot: Kaboom780/Gadgetbridge commit 083a0794bbe789b329686e7df01ea92cbc3dc028. This repository implements its own Android app structure and conservatively reproduces documented protocol behavior. The code in this new project is offered under AGPL-3.0-or-later; see LICENSE. Existing files outside this directory retain their own status.
+
+Google LiteRT-LM is an optional Maven dependency licensed Apache-2.0. Gemma weights are not bundled. This app is an independent project and is not endorsed by IMILAB, GloryFit, Gadgetbridge or Google.
+
+AndroidX Core 1.17.0 is an Apache-2.0 dependency from the Android Open Source Project. The Apache-2.0 license is included in docs/licenses/Apache-2.0.txt. Dependencies retain their respective copyright/license notices.

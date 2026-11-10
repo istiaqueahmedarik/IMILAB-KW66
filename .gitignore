@@ -1,0 +1,20 @@
+.gradle/
+.tools/
+local.properties
+**/build/
+*.keystore
+*.litertlm
+device-reports/
+**/__pycache__/
+
+# Local credentials, private captures, and release binaries
+*.apk
+*.jks
+*.pem
+*.key
+.env
+.env.*
+tests/private/
+*.jsonl
+*.log
+.DS_Store
